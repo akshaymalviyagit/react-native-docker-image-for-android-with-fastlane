@@ -1,0 +1,1 @@
+# react-native-docker-image-for-android-with-fastlane
